@@ -1,0 +1,21 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ega",
+  "license": "ISC",
+  "dependencies": {
+    "begoo": "^1.1.2",
+    "chalk": "^3.0.0",
+    "cowsay": "^1.4.0",
+    "dev-say": "^1.0.0",
+    "yosay": "^2.0.2"
+  },
+  "devDependencies": {
+    "saysnoop": "0.0.4"
+  }
+}
